@@ -18,11 +18,11 @@ I have already completed approximately 60% of the assignment and am confident I 
 I would be grateful for your understanding and guidance in this matter.
 
 Yours sincerely,  
-Akhil Singh  
-Registration No.: 24BCE10XXX  
+Akhil Singh Baghel 
+Registration No.: 25BCE10792
 B.Tech – Computer Science & Engineering (Year 1)  
 VIT Bhopal University  
-Email: akhil.singh2024@vitbhopal.ac.in
+Email: akhil.25bce10792@vitbhopal.ac.in
 
 ---
 
@@ -44,10 +44,10 @@ I have attached my résumé and GitHub profile link for your review. I would wel
 Thank you sincerely for your time and consideration.
 
 Yours faithfully,  
-Akhil Singh  
-B.Tech – Computer Science & Engineering (Year 1)  
-VIT Bhopal University  
-📧 akhil.singh2024@vitbhopal.ac.in  
+Akhil Singh Baghel  
+B.Tech – Computer Science & Engineering (Year 1)     
+VIT Bhopal University    
+📧 akhil.25bce10792@vitbhopal.ac.in    
 🔗 github.com/akhilsingh-vit  
 
 ---
