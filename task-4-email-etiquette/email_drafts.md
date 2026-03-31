@@ -1,0 +1,54 @@
+# Task 4 – Professional Email Drafts
+
+---
+
+## Email 1: Requesting an Assignment Extension
+
+**To:** prof.sharma@vitbhopal.ac.in  
+**Subject:** Request for Extension on Assignment Submission – Digital Systems (Course Code: CSE2001)
+
+Dear Professor Sharma,
+
+I hope this email finds you in good health. I am Akhil Singh, a first-year B.Tech student in Computer Science and Engineering (Registration Number: 24BCE10XXX), currently enrolled in your Digital Systems course.
+
+I am writing to respectfully request a short extension of three days on the upcoming assignment submission deadline, currently set for 5th April 2026. Over the past week, I have been dealing with a medical condition that has significantly impacted my ability to concentrate and complete the assignment to the standard I know is expected. I have attached a medical certificate from the university health centre for your reference.
+
+I have already completed approximately 60% of the assignment and am confident I can submit high-quality work if granted a short extension until 8th April 2026. I sincerely apologise for any inconvenience this may cause and assure you that this is not a reflection of my commitment to the course.
+
+I would be grateful for your understanding and guidance in this matter.
+
+Yours sincerely,  
+Akhil Singh  
+Registration No.: 24BCE10XXX  
+B.Tech – Computer Science & Engineering (Year 1)  
+VIT Bhopal University  
+Email: akhil.singh2024@vitbhopal.ac.in
+
+---
+
+## Email 2: Expressing Interest in a Summer Internship
+
+**To:** internships@techwave.in  
+**Subject:** Application for Summer Internship Opportunity – Computer Science Student | VIT Bhopal University
+
+Dear Internship Coordinator,
+
+I am writing to express my strong interest in any available summer internship opportunities at TechWave Solutions for the year 2026. I am Akhil Singh, a first-year B.Tech student specialising in Computer Science and Engineering at VIT Bhopal University, with an expected graduation year of 2028.
+
+Although I am at an early stage of my academic journey, I have proactively developed skills in Python programming, data structures, and web fundamentals beyond my coursework. I regularly practise problem-solving on HackerRank, maintain an active GitHub profile showcasing my personal projects, and am eager to apply my theoretical knowledge to real-world challenges in a professional environment.
+
+I am particularly drawn to TechWave's work in software product development, and I believe an internship with your team would provide invaluable exposure to industry practices, collaborative engineering workflows, and professional standards that I cannot gain in a classroom alone.
+
+I have attached my résumé and GitHub profile link for your review. I would welcome the opportunity to speak with you about how I might contribute to your team this summer. Please do not hesitate to contact me at the email address below.
+
+Thank you sincerely for your time and consideration.
+
+Yours faithfully,  
+Akhil Singh  
+B.Tech – Computer Science & Engineering (Year 1)  
+VIT Bhopal University  
+📧 akhil.singh2024@vitbhopal.ac.in  
+🔗 github.com/akhilsingh-vit  
+
+---
+*CSE0001 – Digital Literacy | Task 4 – Part A | VIT Bhopal University*
