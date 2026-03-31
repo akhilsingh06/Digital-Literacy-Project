@@ -78,7 +78,7 @@ Set up professional profiles on **GitHub** and **LinkedIn** to build a strong di
 ### 📌 Task 3 – Coding & Collaboration Platforms (20 marks)
 Completed a beginner challenge on **HackerRank** and built an interactive **Digital Literacy Awareness Quiz** using Google Forms (replicated here in HTML).
 - 🎮 Interactive Quiz: [`task-3-platforms/quiz.html`](task-3-platforms/quiz.html)
-- 🔗 Google Form Quiz: *(link to actual Google Form)*
+- 🔗 Google Form Quiz: https://forms.gle/cYk4W38z9n6ydS978
 - 📄 [`task-3-platforms/notes.md`](task-3-platforms/notes.md)
 
 ---
