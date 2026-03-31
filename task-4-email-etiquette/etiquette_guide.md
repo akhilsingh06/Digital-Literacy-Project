@@ -12,7 +12,7 @@ A practical guide to writing professional emails that make a strong impression �
 > Your subject line is the first thing the recipient reads. Make it informative.
 
 ❌ **Poor:** `Hi` / `Question` / `Assignment`  
-✅ **Good:** `Request for Extension – Digital Systems Assignment (CSE2001) | Akhil Singh`
+✅ **Good:** `Request for Extension – Digital Systems Assignment (CSE2001) | Akhil Singh Baghel`
 
 A good subject line tells the reader *who you are*, *what the email is about*, and *why it matters* — before they even open it.
 
@@ -34,7 +34,7 @@ Never use: `Hey`, `Yo`, `Hi there`, or just the person's first name in formal co
 ### Rule 3 · Introduce Yourself in the First Line
 The recipient receives dozens of emails daily. Always state who you are immediately.
 
-✅ **Example:** *"I am Akhil Singh, a first-year B.Tech student in Computer Science at VIT Bhopal University (Reg. No. 24BCE10XXX)."*
+✅ **Example:** *"I am Akhil Singh, a first-year B.Tech student in Computer Science at VIT Bhopal University (Reg. No. 25BCE10792)."*
 
 ---
 
@@ -83,7 +83,7 @@ Every formal email should include:
 ---
 
 ### Rule 9 · Use Your Institutional Email for All Formal Communication
-Using `akhil.singh2024@vitbhopal.ac.in` is professional.  
+Using `akhil.25bce10792@vitbhopal.ac.in` is professional.  
 Using `coolgamer007@gmail.com` is not — no matter how well written the email is.
 
 Your institutional email immediately establishes your credibility and affiliation.
