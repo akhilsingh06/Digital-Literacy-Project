@@ -8,7 +8,7 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | Akhil Singh |
+| **Name** | Akhil Singh Baghel |
 | **Course** | CSE0001 – Digital Literacy |
 | **Branch** | Computer Science & Engineering |
 | **Year** | First Year B.Tech |
